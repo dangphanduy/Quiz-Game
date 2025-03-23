@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 043918df8ed3dc14bac129056e5500f4, type: 3}
   m_Name: Quiz Question 3
   m_EditorClassIdentifier: 
-  question: "\u0110\u1EA5t n\u01B0\u1EDBc h\xECnh l\u1EE5c l\u0103ng l\xE0 t\xEAn
-    g\u1ECDi kh\xE1c c\u1EE7a qu\u1ED1c gia n\xE0o?"
+  question: If all other conditions are false, which conditional statement would
+    you use as a catch all?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - if
+  - if else
+  - else
+  - when
+  correctAnswerIndex: 2

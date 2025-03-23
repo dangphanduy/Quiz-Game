@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 043918df8ed3dc14bac129056e5500f4, type: 3}
   m_Name: Quiz Question 4
   m_EditorClassIdentifier: 
-  question: "Th\u1EC3 lo\u1EA1i th\u01A1 Haiku l\xE0 c\u1EE7a qu\u1ED1c gia n\xE0o?"
+  question: A variable can be thought of as what?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Data that goes inside a box
+  - A box that can contain data
+  - Data that can't be changed
+  - Data that can only be used one
+  correctAnswerIndex: 1

@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 043918df8ed3dc14bac129056e5500f4, type: 3}
   m_Name: Quiz Question 2
   m_EditorClassIdentifier: 
-  question: "H\xECnh thoi c\xF3 m\u1EA5y c\u1EA1nh?"
+  question: Which to words can be used interchangbly?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Blueprint & Function
+  - Blueprint & Method
+  - Function & Instance
+  - Function & Method
+  correctAnswerIndex: 3
